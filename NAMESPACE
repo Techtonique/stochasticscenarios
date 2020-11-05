@@ -1,3 +1,6 @@
+importFrom("graphics", "lines", "title")
+importFrom("methods", "new")
+importFrom("stats", "pnorm", "rnorm")
 exportClasses(ParamsScenarios)
 exportClasses(Scenarios)
 export("rShortRate",
@@ -42,5 +45,3 @@ exportMethods("setParamsBaseScenarios",
 "EuroCall_ZC_PriceDistribution",
 "EuroPut_ZC_PriceDistribution",
 "ZCBond_PriceDistribution")
-
-

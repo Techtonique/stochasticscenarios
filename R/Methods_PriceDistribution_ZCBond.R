@@ -74,7 +74,7 @@ setMethod(
         y <- rep(0,nScenarios)        
         
         P0t <- exp(-ZC[t+1]*t)
-        y <- P0T/P0t*exp(-K(T-t,k)*L(t,vol,k)/2+K(T-t,k)*(forward[t+1]-rt))
+        y <- P0T/P0t*exp(-(K(T-t,k)^2)*L(t,vol,k)/2+K(T-t,k)*(forward[t+1]-rt))
         
         return(y)
       } else stop("Parameter t (starting month) must be positive and lower than maturity T")        

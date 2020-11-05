@@ -12,8 +12,8 @@ Risk neutral Economic Scenario Generator.
 \tabular{ll}{
 Package: \tab ESG\cr
 Type: \tab Package\cr
-Version: \tab 0.1\cr
-Date: \tab 2013-01-13\cr
+Version: \tab 1.1\cr
+Date: \tab 2020-11-03\cr
 License: \tab GNU\cr
 Depends: \tab methods\cr
 }
