@@ -117,9 +117,9 @@ setMethod(
       
       for (i in 1:horizon)
       {
-        a<-alpha*(beta-defaultSpreadPaths[,i])
+        a<-alpha*(beta-defaultSpreadPaths[,i])-volDefault/4
         b<-volDefault*sqrt(defaultSpreadPaths[,i])*epsilon5[,i]
-        c<-volDefault^2/4*(epsilon5[,i]^2-1)
+        c<-volDefault^2/4*epsilon5[,i]^2
         defaultSpreadPaths[,i+1] <- defaultSpreadPaths[,i]+a+b+c
       }
       .Object@defaultSpreadPaths <- defaultSpreadPaths

@@ -1,10 +1,10 @@
-22b8d18fa4dad741375efa5614038126 *DESCRIPTION
+3ccf503520bd1d93ff7a97ec2a1430df *DESCRIPTION
 90da94f4e6dbea9c1e461b8fd33b2a70 *NAMESPACE
 9dcd0fbd8dc7589a9aa47222f285f93e *R/1-Object_ParamsScenarios.R
 2ddf4e1ad6aeb2746152dddb03284ad8 *R/2-Object_Scenarios.R
 873353fe2237be71a7291c0db39715b6 *R/Interface.R
 6b6d822a139edf1734727f9034763e65 *R/Methods_MartingaleTest.R
-6750b46a502063eb0b752878a5c9322e *R/Methods_PathsGeneration.R
+60115f83ac116326f569cdc9085b219f *R/Methods_PathsGeneration.R
 a1750672ad510d7aa860a7a61f6f9b28 *R/Methods_PriceDistribution_Assets.R
 84d76c3aaa9bfaf25923480232383021 *R/Methods_PriceDistribution_Bond.R
 49246e2b8e83c50cfdb29c592c787697 *R/Methods_PriceDistribution_CDSPremium.R
@@ -20,7 +20,7 @@ b68cb4b4e820a70d90a1b21a0fe4a75e *man/Bond_PriceDistribution.Rd
 2bce325afaaca55bd2a958bfa95b677f *man/CBond_PriceDistribution.Rd
 d53b0c1ef4a46625261723f8861b1e31 *man/CDSPremium_PriceDistribution.Rd
 520c462882fa7202c1abf2d778dad243 *man/ConvBond_PriceDistribution.Rd
-8de4b236df2a54b4ecf9b024625fe51f *man/ESG-package.Rd
+fb6ca99119829be613d44ca22f260f11 *man/ESG-package.Rd
 5092e1b789eff0d7f16263335472b701 *man/EuroCall_Stock_PriceDistribution.Rd
 e3c9ba3c81741bde42431d6d3a6a27da *man/EuroCall_ZC_PriceDistribution.Rd
 ffd30c9785ac285e51393ff112d11bdd *man/EuroPut_Stock_PriceDistribution.Rd

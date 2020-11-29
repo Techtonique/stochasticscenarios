@@ -1,8 +1,8 @@
 Package: ESG
 Type: Package
 Title: A Package for Asset Projection
-Version: 1.1
-Date: 2020-11-03
+Version: 1.2
+Date: 2020-11-29
 Author: Jean-Charles Croix, Thierry Moudiki, Fr�d�ric Planchet, Wassim
         Youssef
 Maintainer: Wassim Youssef <Wassim.G.Youssef@gmail.com>
@@ -16,7 +16,7 @@ Description: Presents a "Scenarios" class containing
 License: GPL (>= 2)
 Depends: methods
 Encoding: latin1
-Packaged: 2020-11-05 18:58:50 UTC; wassim
+Packaged: 2020-11-29 17:49:00 UTC; wassim
 Repository: CRAN
-Date/Publication: 2020-11-05 19:10:02 UTC
+Date/Publication: 2020-11-29 18:10:02 UTC
 NeedsCompilation: no
