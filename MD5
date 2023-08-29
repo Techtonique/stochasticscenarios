@@ -1,4 +1,4 @@
-3ccf503520bd1d93ff7a97ec2a1430df *DESCRIPTION
+ca47675203a696019a18b1aa8782b01b *DESCRIPTION
 90da94f4e6dbea9c1e461b8fd33b2a70 *NAMESPACE
 9dcd0fbd8dc7589a9aa47222f285f93e *R/1-Object_ParamsScenarios.R
 2ddf4e1ad6aeb2746152dddb03284ad8 *R/2-Object_Scenarios.R
@@ -9,7 +9,7 @@ a1750672ad510d7aa860a7a61f6f9b28 *R/Methods_PriceDistribution_Assets.R
 84d76c3aaa9bfaf25923480232383021 *R/Methods_PriceDistribution_Bond.R
 49246e2b8e83c50cfdb29c592c787697 *R/Methods_PriceDistribution_CDSPremium.R
 e9dede1464ee8759c172609c7892865f *R/Methods_PriceDistribution_ConvBond.R
-feaa4e757d2c4fee022e80a989762125 *R/Methods_PriceDistribution_CorporateBond.R
+35ae16bd2e0dab260b925006c7244931 *R/Methods_PriceDistribution_CorporateBond.R
 d9c4fc1fae50c62c742ba3a97b377667 *R/Methods_PriceDistribution_EuroCallPut_Stock.R
 414070151b15b5ef0e43927122c4180b *R/Methods_PriceDistribution_EuroCallPut_ZC.R
 9275a849669878fc1ce7892431a14e69 *R/Methods_PriceDistribution_ZCBond.R

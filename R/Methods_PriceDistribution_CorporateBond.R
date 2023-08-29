@@ -75,7 +75,7 @@ setMethod(
         c <- C(eta,T)
         y2 <- A(alpha,beta,volDefault,T)
         
-        #Calcul du troisième terme
+        #Calcul du troisiÚme terme
         for (i in 1:100) #100 points de calcul pour l'intégrale
         {
           delta <- (T-t)/100
