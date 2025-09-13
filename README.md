@@ -1,5 +1,7 @@
 # stochasticscenarios
 
+[![Documentation](https://img.shields.io/badge/documentation-is_here-green)](https://techtonique.github.io/stochasticscenarios/index.html)
+
 A Package for Asset Projection Using Stochastic Simulation
 
 ```R
